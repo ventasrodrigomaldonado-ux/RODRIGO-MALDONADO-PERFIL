@@ -1,0 +1,24 @@
+{
+  "name": "Rodrigo Maldonado | Premium Real Estate",
+  "short_name": "Rodrigo Maldonado",
+  "description": "Perfil profesional de Rodrigo Maldonado | Premium Real Estate.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#0a0a0a",
+  "orientation": "portrait-primary",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
